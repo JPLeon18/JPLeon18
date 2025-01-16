@@ -61,13 +61,6 @@ I'm a **Cloud Infrastructure Analyst** with hands-on experience in **DevOps** an
 
 ---
 
-## 📊 GitHub Stats 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanpablo&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpablo&layout=compact&theme=radical)
-
----
-
 ## 📫 Contact 
 
 - **LinkedIn**: [linkedin.com/in/juan-pablo-leon-mera](https://www.linkedin.com/in/juan-pablo-leon-mera-8ba704234/)  
