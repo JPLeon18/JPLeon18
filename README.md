@@ -12,7 +12,7 @@ I'm a **Cloud Infrastructure Analyst** with hands-on experience in **DevOps** an
 
 ### **Cloud & Infrastructure**
 - ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws&logoColor=white)  
-  Proficient in deploying and managing cloud infrastructure using AWS services, including EC2, S3, RDS, Lambda, and CloudFront.
+  Proficient in deploying and managing cloud infrastructure using AWS services, including EC2, S3, RDS EKS, ECR, Route 53, VPC, IAM, ElastiCache, CloudWatch, Secrets Manager,and CloudFront.
 
 - ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)  
   Experienced in writing reusable and modular infrastructure as code (IaC) with Terraform.
@@ -45,19 +45,6 @@ I'm a **Cloud Infrastructure Analyst** with hands-on experience in **DevOps** an
 - Problem-solving under pressure  
 - Teamwork and effective communication  
 - Adaptability and time management
-
----
-
-## 🛠️ Featured Projects 
-
-- **[AWS Infrastructure Automation](https://github.com/juanpablo/aws-infra-automation)**  
-  Automated multi-region deployments using Terraform and Jenkins pipelines.
-
-- **[Kubernetes Monitoring Stack](https://github.com/juanpablo/k8s-monitoring-stack)**  
-  Set up a monitoring stack using Prometheus, Grafana, and Alertmanager in a production-grade Kubernetes cluster.
-
-- **[PDF Processing API](https://github.com/juanpablo/pdf-processing-api)**  
-  Developed a FastAPI service integrated with Celery for asynchronous PDF processing tasks.
 
 ---
 
